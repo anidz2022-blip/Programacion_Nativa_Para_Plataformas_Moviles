@@ -1,0 +1,13 @@
+
+  final String pokemon = 'Ditto';
+   final int hp = 100;
+  bool? isAlive;
+  final abilities = [];
+  
+  print("""
+  $pokemon
+  $hp
+  $isAlive
+  $abilities
+  """);
+}
